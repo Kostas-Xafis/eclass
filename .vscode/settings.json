@@ -1,0 +1,7 @@
+{
+    "[php]": {
+		"editor.parameterHints.enabled": false,
+		"editor.linkedEditing": true,
+	},
+    "php.inlayHints.parameters.enabled": false,
+}
